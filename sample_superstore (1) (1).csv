@@ -1,0 +1,6 @@
+Order Date,Region,State,Category,Sub-Category,Sales,Profit,Customer Name
+2022-01-05,West,California,Furniture,Chairs,250.0,50.0,John Smith
+2022-01-10,East,New York,Office Supplies,Binders,120.0,20.0,Alice Johnson
+2022-01-15,Central,Texas,Technology,Phones,700.0,200.0,Mark Lee
+2022-02-01,South,Florida,Furniture,Tables,450.0,-30.0,Jane Doe
+2022-02-18,West,Washington,Technology,Accessories,300.0,100.0,Tom Clark
